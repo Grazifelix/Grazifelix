@@ -13,7 +13,7 @@
 ## My skills:
 
 <a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
-<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width=100%;"></a> ⟶ *Level:  beginner*
+<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner_
 </br>
 <a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
 <img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width=100%;"></a> ⟶ *Level:  beginner*
