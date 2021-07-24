@@ -1,4 +1,8 @@
-### Hi there 👋
+### You're welcome to my world 👋
+
+<a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
+<img aling="center" alt="Grazi-felix-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" style="max-width=100%"</a>
+ 
 
 <!--
 **Grazifelix/Grazifelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
