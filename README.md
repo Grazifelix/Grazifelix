@@ -1,7 +1,7 @@
 ## You're welcome to my world 👋
 
 - I live in Brazil
-- I'm a Information Systems student at UFRPE.
+- I'm a Information Systems student at UFRPE
 
 ## Connect with me: 
 
@@ -13,13 +13,14 @@
 ## My skills:
 
 <a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
-<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner_
-
+<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner
+</br>
 <a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
-<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner_
-
+<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner
+<br>
 <a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
-<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner_
+<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width=100%;"></a> ⟶ _Level:  beginner
+<br>
 
 
 ## Status:
@@ -27,8 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=radical)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=radical)](
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=radical)
  
 
 <!--
