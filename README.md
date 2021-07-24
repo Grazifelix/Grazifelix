@@ -31,6 +31,9 @@
  
 
 <!--
+LINKS LEGAIS: https://github.com/anuraghazra/github-readme-stats - TEM OS STATS QUE USEI
+ICONES QUE USEI: https://devicon.dev/
+
 **Grazifelix/Grazifelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
