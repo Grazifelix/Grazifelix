@@ -30,7 +30,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=radical)
  
  - Wakatime stats: <br>
- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/grazifelix/github-readme-stats)
+ ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grazifelix)
 
 <!--
 **Grazifelix/Grazifelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
