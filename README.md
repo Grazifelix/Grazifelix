@@ -27,7 +27,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=radical)
 
-- Most used language list:
+- Most used language list:</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=radical)
  
 
