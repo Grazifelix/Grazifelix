@@ -5,7 +5,7 @@
 
 ## Connect with me: 
 
-<a href="https://www.linkedin.com/in/grazielamariaf/" target="blank">
+<a href="https://www.linkedin.com/in/grazielamariaf/" target="_blank">
 <img aling="center" alt="Grazi-felix-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width=100%;">
 </a>
 
