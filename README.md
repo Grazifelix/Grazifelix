@@ -21,9 +21,6 @@
 <img aling="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width=100%;"> ⟶ Level:  beginner
 <br>
 
-<img aling="center" alt="Csharp-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width=100%;"> ⟶ Level:  beginner
-<br>
-
 <img aling="center" alt="Flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width=100%;"> ⟶ Level:  beginner
 <br>
 
