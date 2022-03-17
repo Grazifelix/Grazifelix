@@ -1,7 +1,9 @@
 ## You're welcome to my world 👋
 
+- I'm 20 years old
 - I live in Brazil
 - I'm a Information Systems student at UFRPE
+
 
 ## Connect with me: 
 
@@ -11,15 +13,17 @@
 
 
 ## My skills:
-
-<img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style=""> 
+<div align:"center">
+  <img aling="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
  
-<img aling="center" alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width=100%;"> 
+  <img aling="center" alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> 
 
-<img aling="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width=100%;"> 
+  <img aling="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> 
 
-<img aling="center" alt="Flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width=100%;">
+  <img aling="center" alt="Flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <br>
+</div>
+
 
 
 ## Stats:
