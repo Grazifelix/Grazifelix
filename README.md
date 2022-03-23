@@ -35,8 +35,8 @@ A twenty years old woman, living in Brazil and studying Information Systems at U
 
 ## Stats
 <div align="center">
-  <img height="200em" src = "https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
 </div>
 
 <!--
