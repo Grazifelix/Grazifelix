@@ -10,7 +10,7 @@ A twenty years old woman, living in Brazil and studying Information Systems at U
   <img aling="center" alt="Grazi-felix-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width=100%;">
   </a>
   
-  <a href="https://mail.google.com/mail/u/2/?ogbl#inbox" target="_blank">
+  <a href="mailto:grazielafelix.dev@gmail.com" target="_blank">
   <img aling="center" alt="Grazi-felix-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width=100%;">
   </a>
 </div>
