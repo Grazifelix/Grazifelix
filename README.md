@@ -16,6 +16,9 @@ A twenty years old woman, living in Brazil and studying Information Systems at U
 </div>
 
 
+<h2>Protifolios</h2>
+<a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a>
+
 <h2>My skills</h2>
 <div style="display: inline-block" align="left">
   <h3>Languages:</h3> 
