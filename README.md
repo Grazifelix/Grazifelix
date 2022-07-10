@@ -34,7 +34,6 @@ A twenty years old woman, living in Brazil and studying Information Systems at U
   <br>
 
 <h3>Tools:</h3>
-  <img  alt="selenium-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img  alt="git-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img  alt="github-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
