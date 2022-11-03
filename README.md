@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hello, i'm Graziela Felix!</h1>
-A twenty years old woman, living in Brazil and studying Information Systems at UFRPE university.
+A twenty-one years old woman, living in Brazil and studying Information Systems at UFRPE university.
 </div>
   
 <div style="display: inline-block", align="center">
