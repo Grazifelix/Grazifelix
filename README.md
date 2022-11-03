@@ -6,7 +6,7 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
 <div style="display: inline-block", align="center">
   </br>
   </br>
-  <a href="https://www.linkedin.com/in/grazielamariaf/" target="_blank">
+  <a href="https://www.linkedin.com/in/grazielafelix/" target="_blank">
   <img  alt="Grazi-felix-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width=100%;">
   </a>
   
