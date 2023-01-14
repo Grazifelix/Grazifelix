@@ -17,8 +17,9 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
 
 
 <h2>Protifolios</h2>
-<a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a>
-[2. Curso de Programação em Python](https://github.com/Grazifelix/python-programa-caca-talentos)
+<!--<a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a>-->
+[1.Bachelor of Information Systems course](https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE)
+[2.Curso de Programação em Python](https://github.com/Grazifelix/python-programa-caca-talentos)
 
 <h2>My skills</h2>
 <div style="display: inline-block" align="left">
