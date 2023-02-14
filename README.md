@@ -14,13 +14,16 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=Portfolios)](https://git.io/typing-svg)
+</br>
 <a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a> </br>
 <a href="https://github.com/Grazifelix/python-programa-caca-talentos">2. Curso de Programação em Python</a>
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=Skills)](https://git.io/typing-svg)
+<br>
 <div style="display: inline-block" align="left">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A89D7&width=435&lines=Languages%3A)](https://git.io/typing-svg)
+ <br>
   <img  alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   <!--<img  alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> 
   <img  alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> -->
