@@ -1,10 +1,8 @@
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8A89D7&repeat=false&width=435&lines=Hello+World%2C+I'm+Graziela+Felix!" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8A89D7&width=435&lines=Hello+World%2C+I'm+Graziela+Felix!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
- </br> 
 A twenty-one years old woman, living in Brazil and studying Information Systems at UFRPE university.
 </div>
 
@@ -14,8 +12,8 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
 </div>
 
-
-<h2>Protifolios</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=Portfolios)](https://git.io/typing-svg)
+<!--<h2>Protifolios</h2>-->
 <a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a> </br>
 <a href="https://github.com/Grazifelix/python-programa-caca-talentos">2. Curso de Programação em Python</a>
 
@@ -40,8 +38,6 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
 
 <h2>Contacts</h2>
 <div style="display: inline-block" align="center">
-  </br>
-  </br>
   <a href="https://www.linkedin.com/in/grazielafelix/" target="_blank">
   <img  alt="Grazi-felix-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width=100%;">
   </a>
