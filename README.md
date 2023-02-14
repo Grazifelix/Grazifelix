@@ -22,7 +22,7 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=Skills)](https://git.io/typing-svg)
 <br>
 <div style="display: inline-block" align="left">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A89D7&width=435&lines=Languages%3A)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A89D7&width=435&lines=Languages%3A" alt="Typing SVG" /></a>
  <br>
   <img  alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   <!--<img  alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> 
@@ -32,10 +32,12 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
   </br>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A89D7&width=435&lines=Database%3A)](https://git.io/typing-svg)
+  <br>
   <img  alt="sql-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8A89D7&width=435&lines=Tools%3A)](https://git.io/typing-svg)
+  <br>
   <img  alt="git-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img  alt="github-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
