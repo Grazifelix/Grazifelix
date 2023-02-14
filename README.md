@@ -39,7 +39,7 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
   <img  alt="github-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
-<div style="display: inline-block", align="center">
+<div style="display: inline-block" align="left">
   </br>
   </br>
   <a href="https://www.linkedin.com/in/grazielafelix/" target="_blank">
