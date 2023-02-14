@@ -9,7 +9,6 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
 </div>
 
 
-## Stats
 <div align="center">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
@@ -34,12 +33,13 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
   <img  alt="sql-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <br>
 
-<h3>Tools:</h3>
+  <h3>Tools:</h3>
   <img  alt="git-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img  alt="github-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
-<div style="display: inline-block" align="left">
+<hr>
+<div style="display: inline-block" align="center">
   </br>
   </br>
   <a href="https://www.linkedin.com/in/grazielafelix/" target="_blank">
