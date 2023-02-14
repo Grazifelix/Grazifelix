@@ -1,18 +1,13 @@
 <div align="center">
-<h1>Hello, i'm Graziela Felix!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A89D7&width=435&lines=Hello+World%2C+I'm+Graziela+Felix!)](https://git.io/typing-svg)
 A twenty-one years old woman, living in Brazil and studying Information Systems at UFRPE university.
 </div>
-  
-<div style="display: inline-block", align="center">
-  </br>
-  </br>
-  <a href="https://www.linkedin.com/in/grazielafelix/" target="_blank">
-  <img  alt="Grazi-felix-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width=100%;">
-  </a>
-  
-  <a href="mailto:grazielafelix.dev@gmail.com" target="_blank">
-  <img  alt="Grazi-felix-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width=100%;">
-  </a>
+
+
+## Stats
+<div align="center">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
 </div>
 
 
@@ -39,13 +34,18 @@ A twenty-one years old woman, living in Brazil and studying Information Systems 
   <img  alt="github-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
-
-
-## Stats
-<div align="center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+<div style="display: inline-block", align="center">
+  </br>
+  </br>
+  <a href="https://www.linkedin.com/in/grazielafelix/" target="_blank">
+  <img  alt="Grazi-felix-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width=100%;">
+  </a>
+  
+  <a href="mailto:grazielafelix.dev@gmail.com" target="_blank">
+  <img  alt="Grazi-felix-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width=100%;">
+  </a>
 </div>
+
 
 <!--
 LINKS LEGAIS: https://github.com/anuraghazra/github-readme-stats - TEM OS STATS QUE USEI
