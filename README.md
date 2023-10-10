@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-A twenty-one years old woman, living in Brazil and studying Information Systems at UFRPE university.
+A twenty-two years old woman, living in Brazil and studying Information Systems at UFRPE university.
 </div>
 
 <br>
