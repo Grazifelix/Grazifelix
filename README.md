@@ -16,7 +16,7 @@ A twenty-two years old woman, living in Brazil and studying Information Systems 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=%23Portfolios)](https://git.io/typing-svg)
 </br>
 <a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a> </br>
-<a href="https://github.com/Grazifelix/python-programa-caca-talentos">2. Curso de Programação em Python</a>
+<a href="https://github.com/Grazifelix/python-programa-caca-talentos">2. Python Portfolio</a>
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=%23Skills)](https://git.io/typing-svg)
