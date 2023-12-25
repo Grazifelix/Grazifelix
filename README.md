@@ -20,7 +20,7 @@ A twenty-two years old woman, living in Brazil and studying Information Systems 
 
 </br>
 
-[![Alt text](image-2.png)](https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE)
+[![Alt text](https://github.com/Grazifelix/Grazifelix/assets/63428197/9218b9a4-4ec8-4932-85e0-b732c02601d8)](https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE)
 [![](https://github.com/Grazifelix/Grazifelix/assets/63428197/7198c83e-0071-4763-92de-72ebf40194fe)](https://github.com/Grazifelix/python-programa-caca-talentos)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=%23Skills)](https://git.io/typing-svg)
