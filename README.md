@@ -17,6 +17,7 @@ A twenty-two years old woman, living in Brazil and studying Information Systems 
 </br>
 <a href="https://github.com/Grazifelix/Jorney-Information-Systems-UFRPE">1. Bachelor of Information Systems course</a> </br>
 <a href="https://github.com/Grazifelix/python-programa-caca-talentos">2. Python Portfolio</a>
+
 </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A89D7&width=435&lines=%23Skills)](https://git.io/typing-svg)
@@ -40,6 +41,8 @@ A twenty-two years old woman, living in Brazil and studying Information Systems 
   <br>
   <img  alt="git-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img  alt="github-icon" hight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  [![Alt text](image-1.png)](https://github.com/Grazifelix/python-programa-caca-talentos)
+
 </div>
 </br>
 
