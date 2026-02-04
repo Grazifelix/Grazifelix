@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-A twenty-two years old woman, living in Brazil and studying Information Systems at UFRPE university.
+Information Systems student at UFRPE focusing on Agile Project Management, Technology, and Innovation. Currently, I work as an Agile Process and Project Analyst at Detran-PE, mapping processes, auditing the application of agile frameworks in development teams, and getting hands-on when necessary..
 </div>
 
 <!-- <br>
