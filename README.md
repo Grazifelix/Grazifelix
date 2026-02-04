@@ -6,13 +6,13 @@
 A twenty-two years old woman, living in Brazil and studying Information Systems at UFRPE university.
 </div>
 
-<br>
+<!-- <br>
 <div align="center">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=grazifelix&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazifelix&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
 </div>
 </br>
-<br>
+<br> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=786EDA&repeat=false&random=false&width=435&lines=--+Portfolios+--)](https://git.io/typing-svg)
 
