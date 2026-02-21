@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-Information Systems student at UFRPE focusing on Agile Project Management, Technology, and Innovation. Currently, I work as an Agile Process and Project Analyst at Detran-PE, mapping processes, auditing the application of agile frameworks in development teams, and getting hands-on when necessary..
+I am an Information Systems student at UFRPE, focusing on Process, Agile, Technology and Innovation. I am passionate about following the end-to-end process of building solutions and have gained hands-on experience in UI/UX and app/web development using Flutter and WordPress, as well as project management, through many projects throughout my career.
 </div>
 
 <!-- <br>
